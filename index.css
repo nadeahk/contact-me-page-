@@ -1,5 +1,5 @@
 body {
-   background-image: url("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg");
+  background-image: url("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg");
   font-style: italic; 
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
@@ -10,7 +10,7 @@ body {
   padding: 35px; } 
     
     
-h1{ color: Pink ; 
+h1{ color: white ; 
   
   }
 
